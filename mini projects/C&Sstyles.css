@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(28, 133, 168);
+}
+.jumbotron {
+    background-color: rgb(177, 62, 62);
+    color: rgb(28, 133, 168);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.col-sm-4{
+    color: darkblue;
+}
+.container-fluida1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:darkblue;
+
+}
+.container-fluida2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkblue;
+}
+.container-fluidh1 {
+    color: darkblue;
+    text-align: center;
+}
+.container-fluida3 {
+    color: darkblue;
+    text-align: center;
+}
